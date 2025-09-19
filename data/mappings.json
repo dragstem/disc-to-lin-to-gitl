@@ -1,0 +1,367 @@
+{
+  "mappings": {
+    "007f3968-dfae-462a-b32f-91d40a280795": {
+      "created_at": "2025-09-19T10:40:32.947602",
+      "gitlab_id": 81,
+      "linear_updated_at": "2025-09-17T08:27:06.872Z",
+      "status": "active"
+    },
+    "05e6c9c1-d922-4ef6-a237-1a6f701de881": {
+      "created_at": "2025-09-19T10:40:19.046974",
+      "gitlab_id": 64,
+      "linear_updated_at": "2025-09-17T09:05:58.347Z",
+      "status": "active"
+    },
+    "0a12d8bc-455c-48a1-8d6b-7774d334a039": {
+      "created_at": "2025-09-05T11:26:05.530179",
+      "gitlab_id": 55,
+      "linear_updated_at": "2025-09-04T09:00:19.371Z",
+      "status": "active"
+    },
+    "14ed37f3-9a26-4cdf-8971-fb5a2dfb5898": {
+      "created_at": "2025-09-19T06:06:30.394042",
+      "gitlab_id": 85,
+      "linear_updated_at": "2025-09-19T05:55:56.634Z",
+      "status": "active"
+    },
+    "173e36c2-2877-4f6b-9e50-8239381fc334": {
+      "created_at": "2025-09-19T06:06:29.172775",
+      "gitlab_id": 100,
+      "linear_updated_at": "2025-09-19T05:55:56.682Z",
+      "status": "active"
+    },
+    "1752bb98-1aa4-4dc2-82ef-ef51ad764068": {
+      "created_at": "2025-09-19T06:06:31.749129",
+      "gitlab_id": 97,
+      "linear_updated_at": "2025-09-19T05:55:56.659Z",
+      "status": "active"
+    },
+    "193ab699-e01d-4f91-b5e8-cb4f37662bb3": {
+      "created_at": "2025-09-19T10:40:34.425535",
+      "gitlab_id": 83,
+      "linear_updated_at": "2025-09-17T08:27:00.729Z",
+      "status": "active"
+    },
+    "1b65818c-e19d-4fed-b90b-4617febfb5ed": {
+      "created_at": "2025-09-05T11:25:56.355750",
+      "gitlab_id": 41,
+      "linear_updated_at": "2025-09-05T06:14:13.998Z",
+      "status": "active"
+    },
+    "22f94c7e-8624-41db-b645-c78843fc1091": {
+      "created_at": "2025-09-19T10:40:37.752673",
+      "gitlab_id": 87,
+      "linear_updated_at": "2025-09-17T08:22:40.268Z",
+      "status": "active"
+    },
+    "2726e2ad-3413-4bf1-8cbb-273485f16f6d": {
+      "created_at": "2025-09-05T11:25:59.298712",
+      "gitlab_id": 47,
+      "linear_updated_at": "2025-09-04T06:26:22.765Z",
+      "status": "active"
+    },
+    "2b0304be-58cd-4f88-bc8e-c2de90f2d4af": {
+      "created_at": "2025-09-19T10:40:22.179521",
+      "gitlab_id": 68,
+      "linear_updated_at": "2025-09-17T09:03:40.736Z",
+      "status": "active"
+    },
+    "2bd45367-967f-4d17-8527-557f927ead5b": {
+      "created_at": "2025-09-19T10:55:39.444952",
+      "gitlab_id": 102,
+      "linear_updated_at": "2025-09-19T05:55:21.621Z",
+      "status": "active"
+    },
+    "43e851fc-a815-4664-9dc7-5ae2394a8762": {
+      "created_at": "2025-09-19T10:40:21.372151",
+      "gitlab_id": 67,
+      "linear_updated_at": "2025-09-17T09:03:41.845Z",
+      "status": "active"
+    },
+    "43ebef7d-e253-4b67-85ba-3c6a64558fec": {
+      "created_at": "2025-09-19T10:40:33.765107",
+      "gitlab_id": 82,
+      "linear_updated_at": "2025-09-17T08:27:03.377Z",
+      "status": "active"
+    },
+    "447e28cb-349e-4299-81a4-12decc9a2c17": {
+      "created_at": "2025-09-05T11:25:57.963317",
+      "gitlab_id": 45,
+      "linear_updated_at": "2025-09-04T08:58:06.125Z",
+      "status": "active"
+    },
+    "466207e6-323d-4c58-890e-439b3c1a3a99": {
+      "created_at": "2025-09-05T11:26:04.514998",
+      "gitlab_id": 54,
+      "linear_updated_at": "2025-09-04T09:00:19.411Z",
+      "status": "active"
+    },
+    "48d8eb6c-37be-472d-939a-a8d105fe18be": {
+      "created_at": "2025-09-05T11:25:59.660508",
+      "gitlab_id": 48,
+      "linear_updated_at": "2025-09-04T06:26:15.028Z",
+      "status": "active"
+    },
+    "49b1276f-5d2a-47a9-a7d9-5afa39e4e95f": {
+      "created_at": "2025-09-19T10:40:40.352833",
+      "gitlab_id": 90,
+      "linear_updated_at": "2025-09-17T07:42:04.878Z",
+      "status": "active"
+    },
+    "4e7381b3-a532-4555-b0a0-3bacc2df24a1": {
+      "created_at": "2025-09-05T11:26:03.847917",
+      "gitlab_id": 53,
+      "linear_updated_at": "2025-09-04T09:00:19.460Z",
+      "status": "active"
+    },
+    "50f26d03-fdf5-470d-9113-c6fa8cecd9ef": {
+      "created_at": "2025-09-19T10:40:32.258023",
+      "gitlab_id": 80,
+      "linear_updated_at": "2025-09-17T08:28:16.707Z",
+      "status": "active"
+    },
+    "5a285f40-5d73-40e6-9e88-515900abcfb1": {
+      "created_at": "2025-09-19T10:50:55.687193",
+      "gitlab_id": 99,
+      "linear_updated_at": "2025-09-19T05:49:29.818Z",
+      "status": "active"
+    },
+    "5ba7ebbd-8060-4eb6-86ea-1c1f586323a7": {
+      "created_at": "2025-09-19T10:40:26.139771",
+      "gitlab_id": 73,
+      "linear_updated_at": "2025-09-17T08:54:11.690Z",
+      "status": "active"
+    },
+    "5e2903ca-7fc1-4162-a820-22a4d75729c0": {
+      "created_at": "2025-09-19T10:40:17.741245",
+      "gitlab_id": 63,
+      "linear_updated_at": "2025-09-17T09:08:17.047Z",
+      "status": "active"
+    },
+    "5fd7adee-5b71-4a1e-9553-c8193c9b6f8d": {
+      "created_at": "2025-09-19T10:40:23.001939",
+      "gitlab_id": 69,
+      "linear_updated_at": "2025-09-17T09:03:38.781Z",
+      "status": "active"
+    },
+    "60fb202e-8bec-4646-b16b-899dbbb63ac5": {
+      "created_at": "2025-09-19T10:40:24.554180",
+      "gitlab_id": 71,
+      "linear_updated_at": "2025-09-17T09:03:36.167Z",
+      "status": "active"
+    },
+    "62d94a7e-aa81-4f5f-a3cf-5e762e20e9b5": {
+      "created_at": "2025-09-19T10:40:30.416473",
+      "gitlab_id": 78,
+      "linear_updated_at": "2025-09-17T08:31:48.488Z",
+      "status": "active"
+    },
+    "6a03f410-c1a6-4546-91ac-f853648623b0": {
+      "created_at": "2025-09-05T11:25:56.775377",
+      "gitlab_id": 42,
+      "linear_updated_at": "2025-09-04T09:17:39.057Z",
+      "status": "active"
+    },
+    "6c8f2104-129e-4de1-8d4d-0a0d561fdd96": {
+      "created_at": "2025-09-05T12:02:59.458754",
+      "gitlab_id": 59,
+      "linear_updated_at": "2025-09-05T07:02:46.914Z",
+      "status": "active"
+    },
+    "6f9efb26-ce94-4e66-9ffb-395e0fad6002": {
+      "created_at": "2025-09-19T10:40:29.309970",
+      "gitlab_id": 77,
+      "linear_updated_at": "2025-09-17T08:35:39.119Z",
+      "status": "active"
+    },
+    "700ac342-6d9f-4e3c-936c-95ef7d023459": {
+      "created_at": "2025-09-19T10:40:57.006537",
+      "gitlab_id": 93,
+      "linear_updated_at": "2025-09-17T07:32:49.964Z",
+      "status": "active"
+    },
+    "75d367d8-3fb7-45e6-b624-b6ab9f62f457": {
+      "created_at": "2025-09-05T11:39:49.392179",
+      "gitlab_id": 57,
+      "linear_updated_at": "2025-09-05T06:30:54.465Z",
+      "status": "active"
+    },
+    "7a33410e-72d8-4181-89d3-a69401cea879": {
+      "created_at": "2025-09-05T11:25:57.595774",
+      "gitlab_id": 44,
+      "linear_updated_at": "2025-09-04T09:00:19.579Z",
+      "status": "active"
+    },
+    "8246af3b-67a6-499b-93d7-f88426f7fb3b": {
+      "created_at": "2025-09-05T11:41:00.046347",
+      "gitlab_id": 58,
+      "linear_updated_at": "2025-09-05T06:40:56.224Z",
+      "status": "active"
+    },
+    "84b28dc2-61a4-4898-8a1d-c9f6b9e1fd86": {
+      "created_at": "2025-09-19T10:40:58.607351",
+      "gitlab_id": 95,
+      "linear_updated_at": "2025-09-17T07:28:39.482Z",
+      "status": "active"
+    },
+    "94e413dd-fb9e-49af-ad8e-c04ef0fb8994": {
+      "created_at": "2025-09-05T11:26:01.354424",
+      "gitlab_id": 50,
+      "linear_updated_at": "2025-09-04T06:24:20.883Z",
+      "status": "active"
+    },
+    "966d7753-f353-47a7-ad36-006a9646dd4b": {
+      "created_at": "2025-09-19T10:40:31.380587",
+      "gitlab_id": 79,
+      "linear_updated_at": "2025-09-17T08:29:21.480Z",
+      "status": "active"
+    },
+    "9f1fadb0-e9ab-4981-bc10-7266329bcec9": {
+      "created_at": "2025-09-19T10:40:27.627902",
+      "gitlab_id": 75,
+      "linear_updated_at": "2025-09-17T08:41:01.717Z",
+      "status": "active"
+    },
+    "a2bc7c1f-bed7-48b3-8fac-eeb78e7aacdc": {
+      "created_at": "2025-09-19T10:40:39.658882",
+      "gitlab_id": 89,
+      "linear_updated_at": "2025-09-17T07:45:19.892Z",
+      "status": "active"
+    },
+    "a3c237cd-b5e2-4247-8c06-d1520a509d42": {
+      "created_at": "2025-09-17T11:39:56.631698",
+      "gitlab_id": 61,
+      "linear_updated_at": "2025-09-05T07:11:59.880Z",
+      "status": "active"
+    },
+    "a4f0f93e-080a-401f-93a3-71a4b5d147c1": {
+      "created_at": "2025-09-19T10:40:35.130896",
+      "gitlab_id": 84,
+      "linear_updated_at": "2025-09-17T08:26:58.923Z",
+      "status": "active"
+    },
+    "a73e1b9a-ef40-4404-b373-496ba39f5cf1": {
+      "created_at": "2025-09-05T11:26:02.005624",
+      "gitlab_id": 51,
+      "linear_updated_at": "2025-09-04T06:02:02.209Z",
+      "status": "active"
+    },
+    "aa03ca1c-8093-464d-8b49-526443d591df": {
+      "created_at": "2025-09-19T10:40:36.774771",
+      "gitlab_id": 86,
+      "linear_updated_at": "2025-09-17T07:50:29.581Z",
+      "status": "active"
+    },
+    "ab309caa-c286-4876-a6cc-efa4ff2318bc": {
+      "created_at": "2025-09-19T10:40:23.759208",
+      "gitlab_id": 70,
+      "linear_updated_at": "2025-09-17T09:03:37.513Z",
+      "status": "active"
+    },
+    "b0ce2832-8e0a-4fd4-a78d-8b10cc3ee36f": {
+      "created_at": "2025-09-19T10:40:41.150312",
+      "gitlab_id": 91,
+      "linear_updated_at": "2025-09-17T07:42:03.253Z",
+      "status": "active"
+    },
+    "b2be2f67-455c-4f4f-9a5d-b766e61c27b2": {
+      "created_at": "2025-09-19T10:40:20.498993",
+      "gitlab_id": 66,
+      "linear_updated_at": "2025-09-17T09:03:42.919Z",
+      "status": "active"
+    },
+    "b4869f40-5ef7-40df-a6b8-4acd73e746d1": {
+      "created_at": "2025-09-19T10:40:57.838887",
+      "gitlab_id": 94,
+      "linear_updated_at": "2025-09-17T09:03:51.206Z",
+      "status": "active"
+    },
+    "b5bc3887-9210-4cc2-b85d-9e2f985a744a": {
+      "created_at": "2025-09-19T10:55:38.712579",
+      "gitlab_id": 101,
+      "linear_updated_at": "2025-09-19T05:55:22.550Z",
+      "status": "active"
+    },
+    "c72eed10-2daf-4746-920f-47b05eff9279": {
+      "created_at": "2025-09-05T11:41:01.860547",
+      "gitlab_id": 60,
+      "linear_updated_at": "2025-09-05T06:40:41.961Z",
+      "status": "active"
+    },
+    "c9a91e02-143d-4859-803c-db6ddfa9f9da": {
+      "created_at": "2025-09-19T10:40:38.446222",
+      "gitlab_id": 88,
+      "linear_updated_at": "2025-09-17T07:45:21.469Z",
+      "status": "active"
+    },
+    "cec60932-5254-4d25-9715-bec6594a4332": {
+      "created_at": "2025-09-19T10:40:19.740330",
+      "gitlab_id": 65,
+      "linear_updated_at": "2025-09-17T09:03:48.195Z",
+      "status": "active"
+    },
+    "e3ff4f1d-bbc6-4393-8fee-d60bae008143": {
+      "created_at": "2025-09-19T10:47:59.224287",
+      "gitlab_id": 98,
+      "linear_updated_at": "2025-09-19T05:47:34.873Z",
+      "status": "active"
+    },
+    "e8cca602-30df-404d-8439-b695034a0297": {
+      "created_at": "2025-09-19T10:40:26.939277",
+      "gitlab_id": 74,
+      "linear_updated_at": "2025-09-17T08:44:06.823Z",
+      "status": "active"
+    },
+    "eb91f224-6ca7-49c6-8fb2-a31459cfc038": {
+      "created_at": "2025-09-19T10:40:17.070842",
+      "gitlab_id": 62,
+      "linear_updated_at": "2025-09-17T09:08:18.261Z",
+      "status": "active"
+    },
+    "ed520ff7-1959-43d4-83fb-db255bc864ab": {
+      "created_at": "2025-09-19T10:40:28.408748",
+      "gitlab_id": 76,
+      "linear_updated_at": "2025-09-17T08:36:44.646Z",
+      "status": "active"
+    },
+    "f0a9c26f-5f80-4e36-8553-c32ab3817c88": {
+      "created_at": "2025-09-05T11:26:00.041697",
+      "gitlab_id": 49,
+      "linear_updated_at": "2025-09-04T06:24:32.561Z",
+      "status": "active"
+    },
+    "f2cb1078-3414-4ac8-8784-ef7fb53fbba0": {
+      "created_at": "2025-09-19T10:40:55.897616",
+      "gitlab_id": 92,
+      "linear_updated_at": "2025-09-17T07:32:52.269Z",
+      "status": "active"
+    },
+    "f4f2db83-185f-443d-a32e-eba9161302a9": {
+      "created_at": "2025-09-05T11:26:03.174736",
+      "gitlab_id": 52,
+      "linear_updated_at": "2025-09-04T09:00:19.515Z",
+      "status": "active"
+    },
+    "f606ef42-6e28-456c-a90b-2ff4a68dce11": {
+      "created_at": "2025-09-19T10:40:59.449759",
+      "gitlab_id": 96,
+      "linear_updated_at": "2025-09-17T08:14:09.466Z",
+      "status": "active"
+    },
+    "f78bb240-892a-4890-bb2e-04220be2a17f": {
+      "created_at": "2025-09-19T10:40:25.230478",
+      "gitlab_id": 72,
+      "linear_updated_at": "2025-09-17T09:03:33.889Z",
+      "status": "active"
+    },
+    "fe2e1c90-621b-4b9c-97df-c60576b4b27b": {
+      "created_at": "2025-09-05T11:25:57.138214",
+      "gitlab_id": 43,
+      "linear_updated_at": "2025-09-04T09:17:33.074Z",
+      "status": "active"
+    }
+  },
+  "metadata": {
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "GITLAB_PROJECT_ID_OVERRIDE": {
+      "description": "GitLab project ID override",
+      "updated_at": "2025-09-16T17:35:05.747410",
+      "value": "\"74162899\""
+    },
+    "LINEAR_TEAM_NAME": {
+      "description": "Linear team name for synchronization",
+      "updated_at": "2025-09-16T17:35:05.740629",
+      "value": "\"Abobatest\""
+    },
+    "SYNC_INTERVAL": {
+      "description": "Sync interval in seconds",
+      "updated_at": "2025-09-16T17:35:05.753092",
+      "value": "\"300\""
+    }
+  }
+}

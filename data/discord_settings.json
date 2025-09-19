@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "description": "Discord integration settings and configuration",
+    "version": "1.0"
+  },
+  "settings": {
+    "DISCORD_DEFAULT_TEAM": {
+      "description": "Default Linear team ID for Discord threads",
+      "updated_at": "2025-09-17T13:27:18.115570",
+      "value": "\"Abobatest\""
+    },
+    "DISCORD_FILTER_RULES": {
+      "description": "Discord thread filtering rules",
+      "value": {
+        "exclude_tags": [],
+        "include_tags": [],
+        "max_age_days": 365,
+        "min_message_count": 1
+      }
+    },
+    "DISCORD_LAST_SYNC": {
+      "description": "Last Discord synchronization timestamp",
+      "value": "2025-01-01T00:00:00Z"
+    },
+    "DISCORD_SYNC_ENABLED": {
+      "description": "Enable Discord synchronization",
+      "updated_at": "2025-09-17T13:27:18.127768",
+      "value": "\"true\""
+    },
+    "DISCORD_TEAM_MAPPINGS": {
+      "description": "Mapping of Discord tags to Linear team IDs",
+      "updated_at": "2025-09-17T13:43:04.164297",
+      "value": "{\"0\": \"{\", \"2\": \"S\", \"3\": \"E\", \"4\": \"V\", \"5\": \"-\", \"6\": \"1\", \"8\": \":\", \"11\": \"A\", \"12\": \"b\", \"13\": \"o\", \"14\": \"b\", \"15\": \"a\", \"16\": \"t\", \"17\": \"e\", \"18\": \"s\", \"19\": \"t\", \"21\": \",\", \"24\": \"S\", \"25\": \"E\", \"26\": \"V\", \"27\": \"-\", \"28\": \"2\", \"30\": \":\", \"33\": \"A\", \"34\": \"b\", \"35\": \"o\", \"36\": \"b\", \"37\": \"a\", \"38\": \"t\", \"39\": \"e\", \"40\": \"s\", \"41\": \"t\", \"43\": \"}\"}"
+    }
+  }
+}
